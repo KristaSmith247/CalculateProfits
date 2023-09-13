@@ -1,0 +1,14 @@
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\bin\Debug\net7.0\ProfitCalculator.exe
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\bin\Debug\net7.0\ProfitCalculator.deps.json
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\bin\Debug\net7.0\ProfitCalculator.runtimeconfig.json
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\bin\Debug\net7.0\ProfitCalculator.dll
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\bin\Debug\net7.0\ProfitCalculator.pdb
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\obj\Debug\net7.0\ProfitCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\obj\Debug\net7.0\ProfitCalculator.AssemblyInfoInputs.cache
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\obj\Debug\net7.0\ProfitCalculator.AssemblyInfo.cs
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\obj\Debug\net7.0\ProfitCalculator.csproj.CoreCompileInputs.cache
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\obj\Debug\net7.0\ProfitCalculator.dll
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\obj\Debug\net7.0\refint\ProfitCalculator.dll
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\obj\Debug\net7.0\ProfitCalculator.pdb
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\obj\Debug\net7.0\ProfitCalculator.genruntimeconfig.cache
+C:\Users\midni\OneDrive\Desktop\CalculateProfits\ProfitCalculator\ProfitCalculator\obj\Debug\net7.0\ref\ProfitCalculator.dll
